@@ -278,7 +278,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 50px;
   margin-right: 50px;
   height: 100vh;
-  background: url("../img/hero-bg.jpg");
+  background: url("../img/Polish.jpg");
   background-size: cover;
   background-position: left;
   
@@ -288,6 +288,9 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 24px;
     margin-bottom: 30px;
   }
+  .hero-container{
+  padding-top: 30px !important;
+}
 }
 
 /*--------------------------------------------------------------
@@ -1075,10 +1078,10 @@ section {
   padding: 15px;
   color: #f4f6fd;
   font-size: 14px;
-  position: fixed;
-  left: 0;
+/*  position: fixed;
+*/  left: 0;
   bottom: 0;
-  width: 300px;
+  width: 100%;
   z-index: 9999;
   background: #040b14;
 }

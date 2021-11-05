@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
+
+  <url>
+       <loc>https://sulphitic786.github.io/portfolio/</loc>
+       <lastmod>2021-11-05T08:10:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://sulphitic786.github.io/portfolio/index.html</loc>
+       <lastmod>2021-11-05T08:10:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://sulphitic786.github.io/portfolio/projects/afrimarketplace.html</loc>
+       <lastmod>2021-11-05T08:10:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://sulphitic786.github.io/portfolio/projects/abbaypages.html</loc>
+       <lastmod>2021-11-05T08:10:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://sulphitic786.github.io/portfolio/projects/nokelstv.html</loc>
+       <lastmod>2021-11-05T08:10:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://sulphitic786.github.io/portfolio/portfolio-details.html</loc>
+       <lastmod>2021-11-05T08:10:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://sulphitic786.github.io/portfolio/projects/ninjaapps.html</loc>
+       <lastmod>2021-11-05T08:10:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+</urlset>

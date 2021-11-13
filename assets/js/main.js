@@ -6,7 +6,15 @@
 */
 !(function($) {
   "use strict";
-
+ // ---------PreLoader ------------------
+              $(window).on('load', function() {
+              if ($('#preloader').length) {
+              $('#preloader').delay(100).fadeOut('slow', function() {
+              $(this).remove();
+              });
+            }
+          });
+  
   // Hero typed
   if ($('.typed').length) {
     var typed_strings = $(".typed").data('typed-items');

@@ -50,8 +50,8 @@ h1, h2, h3, h4, h5, h6 {
   border-top-color: red;
   border-bottom-color: yellow;
   border-radius: 50%;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   -webkit-animation: animate-preloader 1s linear infinite;
   animation: animate-preloader 1s linear infinite;
 }
@@ -61,15 +61,15 @@ h1, h2, h3, h4, h5, h6 {
     transform: rotate(360deg);
     border-top: 6px solid red;
   }
-  25% {
+  33% {
     transform: rotate(360deg);
     border-right: 6px solid green;
   }
-  50% {
+  66% {
     transform: rotate(360deg);
     border-bottom: 6px solid yellow;
   }
-  75% {
+  99% {
     transform: rotate(360deg);
     border-left: 6px solid rgb(21, 99, 202);
   }
@@ -80,15 +80,15 @@ h1, h2, h3, h4, h5, h6 {
     transform: rotate(360deg);
     border-top: 6px solid red;
   }
-  25% {
+  33% {
     transform: rotate(360deg);
     border-right: 6px solid green;
   }
-  50% {
+  66% {
     transform: rotate(360deg);
     border-bottom: 6px solid yellow;
   }
-  75% {
+  99% {
     transform: rotate(360deg);
     border-left: 6px solid rgb(21, 99, 202);
   }
